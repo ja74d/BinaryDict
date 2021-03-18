@@ -52,5 +52,55 @@ def bindic(x):
         print('01111001', end=' ')
     elif x == 'z':
         print('01111010', end=' ')
-
-    
+    elif x == 'A':
+        print('01000001', end=' ')
+    elif x == 'B':
+        print('01000010', end=' ')
+    elif x == 'C':
+        print('01000011', end=' ')
+    elif x == ('D'):
+        print('01000100', end=' ')
+    elif x == ('E'):
+        print('01000101', end=' ')
+    elif x == ('F'):
+        print('01000110', end=' ')
+    elif x == 'G':
+        print('01000111', end=' ')
+    elif x == ('H'):
+        print('01001000', end=' ')
+    elif x == ('I'):
+        print('01001001', end=' ')
+    elif x == ('J'):
+        print('01001010', end=' ')
+    elif x == ('K'):
+        print('01001011', end=' ')
+    elif x == ('L'):
+        print('01001100', end=' ')
+    elif x == ('M'):
+        print('01001101, 'end=' ')
+    elif x == ('N'):
+        print('01001110, 'end=' ')
+    elif x == ('O'):
+        print('01001111, 'end=' ')
+    elif x == ('P'):
+        print('01010000, 'end=' ')
+    elif x == ('Q'):
+        print('01010001, 'end=' ')
+    elif x == ('R'):
+        print('01010010, 'end=' ')
+    elif x == ('S'):
+        print('01010011, 'end=' ')
+    elif x == ('T'):
+        print('01010100', end=' ')
+    elif x == ('U'):
+        print('01010101', end=' ')
+    elif x == ('V'):
+        print('01010110', end=' ')
+    elif x == ('W'):
+        print('01010111', end=' ')
+    elif x == ('X'):
+        print('01011000', end=' ')
+    elif x == ('Y'):
+        print('01011001', end=' ')
+    elif x == ('Z'):
+        print('01011010', end=' ')
