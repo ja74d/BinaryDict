@@ -104,3 +104,31 @@ def bindic(x):
         print('01011001', end=' ')
     elif x == ('Z'):
         print('01011010', end=' ')
+    elif x == ('!'):
+        print('00100001', end=' ')
+    elif x == ('@'):
+        print('01000000', end=' ')
+    elif x == ('#'):
+        print('00100011', end=' ')
+    elif x == ('$'):
+        print('00100100', end=' ')
+    elif x == ('%'):
+        print('00100101', end=' ')
+    elif x == ('^'):
+        print('01011110', end=' ')
+    elif x == ('&'):
+        print('00100110', end=' ')
+    elif x == ('*'):
+        print('00101010', end=' ')
+    elif x == ('('):
+        print('00101000', end=' ')
+    elif x == (')'):
+        print('00101001', end=' ')
+    elif x == ('-'):
+        print('00101101', end=' ')
+    elif x == ('_'):
+        print('01011111', end=' ')
+    elif x == ('='):
+        print('00111101', end=' ')
+    elif x == ('+'):
+        print('00101011', end=' ')
