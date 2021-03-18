@@ -77,19 +77,19 @@ def bindic(x):
     elif x == ('L'):
         print('01001100', end=' ')
     elif x == ('M'):
-        print('01001101, 'end=' ')
+        print('01001101', end=' ')
     elif x == ('N'):
-        print('01001110, 'end=' ')
+        print('01001110', end=' ')
     elif x == ('O'):
-        print('01001111, 'end=' ')
+        print('01001111', end=' ')
     elif x == ('P'):
-        print('01010000, 'end=' ')
+        print('01010000', end=' ')
     elif x == ('Q'):
-        print('01010001, 'end=' ')
+        print('01010001', end=' ')
     elif x == ('R'):
-        print('01010010, 'end=' ')
+        print('01010010', end=' ')
     elif x == ('S'):
-        print('01010011, 'end=' ')
+        print('01010011', end=' ')
     elif x == ('T'):
         print('01010100', end=' ')
     elif x == ('U'):
